@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rdbharti
 - 👀 I’m interested in New Technology
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Kubernetes for (Certified Kubnernetes Administrator)
 - 📫 How to reach me ranadurlabh@yahoo.com
 
 <!---
